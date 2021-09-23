@@ -20,11 +20,8 @@ This is a project for e-commerce.
 
 ## Contributors
 
-| Abdelhak Saadi | Casey Bloom | Yogendra Bohara |
-| :---: | :---: | :---: |
-| <img width="100" src="https://media-exp3.licdn.com/dms/image/C5603AQErvKa6rMQHPw/profile-displayphoto-shrink_400_400/0/1605134351725?e=1631145600&v=beta&t=YdxACHWgYchaE5AJ8sj2XLiaHyFl8Ld94D6B_fPH6G0" /> | <img width="100" src="https://user-images.githubusercontent.com/67789350/125350133-f7a1f100-e37b-11eb-8db3-625a2b44b98f.png" /> | <img width="100" src="https://user-images.githubusercontent.com/67789350/125350942-16ed4e00-e37d-11eb-9ba1-60a52a8b03c6.png" /> |
-| <a href="https://www.linkedin.com/in/abdelhak-saadi-06a21b1bb"><img width="30" src="https://user-images.githubusercontent.com/86960639/124492375-fbf56980-ddd1-11eb-8b61-860e664272b3.png" /></a> | <a href="https://www.linkedin.com/in/casey-d-bloom/"><img width="30" src="https://user-images.githubusercontent.com/86960639/124492375-fbf56980-ddd1-11eb-8b61-860e664272b3.png" /></a> | <a href="https://www.linkedin.com/in/yogendra-bohara-024269192/"><img width="30" src="https://user-images.githubusercontent.com/86960639/124492375-fbf56980-ddd1-11eb-8b61-860e664272b3.png" /></a> |
-| <a href="https://github.com/saadiabdelhak1"><img width="30" src="https://user-images.githubusercontent.com/86960639/124493149-edf41880-ddd2-11eb-9fa2-ae29da0f556d.png" /></a> | <a href="https://github.com/TerrapinStat10n/"><img width="30" src="https://user-images.githubusercontent.com/86960639/124493149-edf41880-ddd2-11eb-9fa2-ae29da0f556d.png" /></a> | <a href="https://github.com/yogendrabohara"><img width="30" src="https://user-images.githubusercontent.com/86960639/124493149-edf41880-ddd2-11eb-9fa2-ae29da0f556d.png" /></a> |
+| Abdelhak Saadi | Casey Bloom | Michael T Prempeh |
+
 
 ## Folders for main Apps
 
